@@ -1,0 +1,14 @@
+{
+    "data": {
+        "TOKEN": "TOKEN",
+        "pr": [
+            "t2!",
+            "th!"
+        ],
+        "link": [
+            "https://discord.com/api/oauth2/authorize?client_id=768397046511173632&permissions=8&scope=bot",
+            "https://discord.com/api/oauth2/authorize?client_id=768397046511173632&permissions=8&scope=bot"
+        ]
+    },
+    "pauth": {}
+}
